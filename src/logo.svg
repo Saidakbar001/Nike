@@ -1,0 +1,15 @@
+ <!-- <Switch>
+         {
+           user ?
+           <>
+           <Route exact path="/" component={Home} />
+           <Route exact path="/friend" component={Friend} />
+           <Route exact path="/groups" component={Groups} />
+           <Route exact path="/profill" component={Profil} />
+
+           </>
+           :
+           <Login/>
+            
+         }
+      </Switch> -->
